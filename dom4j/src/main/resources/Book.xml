@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book>
+        <name>think in java</name>
+        <author>Bruce Eckel</author>
+        <price>90.00</price>
+    </book>
+    <book>
+        <name>Effective</name>
+        <author>Joshua Bloch</author>
+        <price>52.00</price>
+    </book>
+    <book>
+        <name>java多线程编程</name>
+        <author>高红岩</author>
+        <price>69.00</price>
+    </book>
+</books>

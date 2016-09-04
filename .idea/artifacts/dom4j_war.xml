@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dom4j:war">
+    <output-path>$PROJECT_DIR$/dom4j/target</output-path>
+    <root id="archive" name="dom4j-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dom4j:war exploded" />
+    </root>
+  </artifact>
+</component>
